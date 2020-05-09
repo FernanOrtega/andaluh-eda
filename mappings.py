@@ -5,8 +5,8 @@ import time
 import codecs
 from multiprocessing import Pool
 
-ENTRIES_FILE = 'tests/entries_es.txt'
-MAPPING_CSV = 'tests/entries_es_and2.csv'
+ENTRIES_FILE = 'data/entries_es.txt'
+MAPPING_CSV = 'data/entries_es_and2.csv'
 # ENTRIES_FILE = 'tests/entries_out_mini.txt'
 # MAPPING_CSV = 'tests/entries_mapping_mini.csv'
 
